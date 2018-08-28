@@ -41,7 +41,7 @@ Next, I wanted to see the popularity of each class in the general population.  I
 ### Where Max Level Chars Spend Their time
 Once you have achieved max level, then the end game starts.  I wanted to see where each character was spending most of their time once they hit max level.  You can see from the data, the majority of people are spending time in the main city hub.  When they are not at the city hub, then they are out and about destroying dungeons and raid dungeons.
 
-<img src="graphs/Top10ChoicesRaidZone.png" align="center" height="450">
+<img src="graphs/Top10ChoicesRaidZone.png" align="center" height="300">
 
 ## Conclusion
-This data set was fun to play with to relive parts of my childhood in a game I spent WAY to much time on.  It helped me learn to manipulate and graph in R.  As fun as R was to code in, I have since switched to python as my primary language of choice for data science.  However, it is useful to still know for reading other people's code.
+This data set was fun to play with to relive parts of my childhood in a game I spent WAY to much time on.  It helped me learn to manipulate and graph in R.  As fun as R was to code in, I have since switched to python as my primary language of choice for data science.  However, it is useful to know for reading other people's code.
