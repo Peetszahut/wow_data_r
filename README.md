@@ -8,8 +8,10 @@ Originally went through the data in the beginning portion of the code to check w
 
 ### # of New Max Level Players per Week over a Years time
 I found this to be particularly interesting due to showing a trend when people tend to level up new characters.  The trend seems to follow the school calendar (which isn't surprising considering the average age group for these type of games).
+
 <img src="graphs/NewMaxLevelPlot.png" align="center" height="450">
 
 ### Race/Class Combo (with focus on Blood Elf Race)
 Blood Elf's were always my favorite race in this game, so I wanted to see how many people shared my enthusiasm for them.  You can see from the graph, the Blood Elfs reign supreme in terms of race played.   
+
 <img src="graphs/BloodElf_RaceClassCombo.png" align="center" height="450">
